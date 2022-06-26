@@ -1,1 +1,1 @@
-# 30-Minute-Cube-Game-WebGL
+# 30 Minute Cube Game
